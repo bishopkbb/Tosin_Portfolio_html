@@ -1,6 +1,6 @@
 # Tosin Ajibade - Full-Stack Developer Portfolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/tosin-ajibade/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/tosin-ajibade/deploy-status)](https://app.netlify.com/sites/tosin-ajibade/deploys)
 [![GitHub last commit](https://img.shields.io/github/last-commit/bishopkbb/Tosin_Portfolio_html)](https://github.com/bishopkbb/Tosin_Portfolio_html/commits/main)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Ftosin-ajibade.netlify.app)](https://tosin-ajibade.netlify.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -33,6 +33,7 @@ A modern, responsive portfolio website showcasing my journey as a MERN stack dev
 - **Font Awesome**: Icon library for UI elements
 - **Google Fonts**: Inter typography system
 - **Prism.js**: Code syntax highlighting
+- **Formspree**: Form Validation
 - **CSS Grid & Flexbox**: Layout systems
 
 ### Deployment & Hosting
